@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "crownsmp-dxie.aternos.me:43291",
+    "port": 43291,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
